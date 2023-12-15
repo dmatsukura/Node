@@ -132,7 +132,7 @@ This work is based on [MEAN.js](http://meanjs.org) and more precisely on a fork 
 
 ## :globe_with_meridians: [We Are Open Source, Who we are ?](https://weareopensource.me)
 
-Today, we dreams to create Backs/Fronts, aligns on feats, in multiple languages, in order to allow anyone to compose fullstack on demand (React, Angular, VusJS, Node, Nest, Swift, Go).
+Today, we dreams to create Backs/Fronts, aligns on feats, in multiple languages, in order to allow anyone to compose fullstack on demand (React, Angular, VueJS, Node, Nest, Swift, Go).
 Feel free to discuss, share other kind of bricks, and invite whoever you want with this mindset to come help us.
 
 Feel free to help us ! :)
